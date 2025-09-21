@@ -1,6 +1,7 @@
 ## Hi there 👋
 # 💫 About Me:
-🌱 I’m currently learning Data Science<br>💻 All of My Projects are Available on Github<br>💬 Ask me about Programming, MERN Development, Data Analytics and Power BI Development<br>📧 Reach out to me at ajgagana@gmail.com
+🌱 I’m currently learning Data Science<br>💻 All of My Projects are Available on <a href="https://github.com/Gagan-A-J">Github</a>
+<br>💬 Ask me about Programming, MERN Development, Data Analytics and Power BI Development<br>📧 Reach out to me at ajgagana@gmail.com
 
 
 ## 🌐 Socials:
